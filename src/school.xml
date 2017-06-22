@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+	<department name="计算机学院">
+		<major>软件工程</major>
+		<major>计科</major>
+		<major>网络工程</major>
+	</department>
+	<department name="外国语学院">
+		<major>英语</major>
+		<major>日语</major>
+		<major>德语</major>
+	</department>
+	<department name="自动化学院">
+		<major>机械设计</major>
+		<major>自动化</major>
+		<major>自动化与机械设计</major>
+	</department>
+</school>
